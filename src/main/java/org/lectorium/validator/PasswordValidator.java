@@ -1,4 +1,4 @@
-package Validator;
+package org.lectorium.validator;
 
 public class PasswordValidator {
 

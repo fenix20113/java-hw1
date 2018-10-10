@@ -1,7 +1,8 @@
-package Validator;
+package org.lectorium.validator;
 
 import junit.framework.Assert;
 import org.junit.Test;
+import org.lectorium.validator.PasswordValidator;
 
 public class PasswordValidatorTest {
 
